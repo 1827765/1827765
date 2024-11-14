@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Adekunle Omotayo 
-- 👀 I’m interested in the world of data and it's applications
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate with anyone with data and needs meaningful insights 
+- 👋 Hi, I’m Adekunle Omotayo.
+- 👀 I’m interested in the world of data and its applications.
+- 🌱 I’m currently becoming a full stack dev.
+- 💞️ I want to collaborate with anyone with information who needs meaningful insights.
 - 📫 How to reach me ... email: Ojoadekunleomotayo@gmail.com, phone: +2348163401786
 - ⚡ Fun fact: ... everything has DATA.
 
