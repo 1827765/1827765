@@ -2,7 +2,7 @@
 - 👀 I’m interested in the world of data and its applications.
 - 🌱 I’m currently becoming a full stack dev.
 - 💞️ I want to collaborate with anyone with information who needs meaningful insights.
-- 📫 How to reach me ... email: Ojoadekunleomotayo@gmail.com, phone: +2348163401786
+- 📫 How to reach me ... email: Ojoadekunleomotayo@gmail.com
 - ⚡ Fun fact: ... everything has DATA.
 
 <!---
